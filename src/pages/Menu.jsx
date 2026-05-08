@@ -6,12 +6,12 @@ export default function Menu({ audioRef }) {
 
   // Static kitty pictures in random positions
   const kittyImages = [
-  { src: "/pictures/pic1.png", top: "5%", left: "8%", size: "190px", rotation: -15 },
-  { src: "/pictures/pic2.png", top: "15%", right: "10%", size: "190px", rotation: 12 },
-  { src: "/pictures/pic3.png", top: "45%", left: "5%", size: "185px", rotation: 8 },
-  { src: "/pictures/pic4.png", bottom: "10%", right: "8%", size: "170px", rotation: -10 },
-  { src: "/pictures/pic5.png", top: "40%", right: "13%", size: "175px", rotation: 20 },
-  { src: "/pictures/pic6.png", top: "75%", left: "12%", size: "185px", rotation: -8 }
+  { src: "/pictures/pic1.png", top: "5%", left: "5%", size: "100px", rotation: -15 },
+  { src: "/pictures/pic2.png", top: "11%", right: "10%", size: "120px", rotation: 12 },
+  { src: "/pictures/pic3.png", top: "22%", left: "5%", size: "90px", rotation: 8 },
+  { src: "/pictures/pic4.png", bottom: "3%", right: "8%", size: "70px", rotation: -10 },
+  { src: "/pictures/pic5.png", top: "59%", right: "40%", size: "90px", rotation: 20 },
+  { src: "/pictures/pic6.png", top: "86%", left: "12%", size: "100px", rotation: -8 }
 ];
 
 

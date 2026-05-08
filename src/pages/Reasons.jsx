@@ -33,7 +33,7 @@ export default function Reasons() {
   const [show, setShow] = useState(false);
 
  const kittyImages = [
-    { src: "/pictures/p1.png", top: "10%", left: "5%", rotate: -10 },
+    { src: "/pictures/p1.png", top: "13%", left: "5%", rotate: -10 },
     { src: "/pictures/p2.png", top: "18%", right: "6%", rotate: 12 },
     { src: "/pictures/p3.png", top: "45%", left: "3%", rotate: 8 },
     { src: "/pictures/p4.png", bottom: "18%", right: "5%", rotate: -12 },

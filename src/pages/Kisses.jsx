@@ -7,18 +7,18 @@ export default function Kisses({ audioRef }) {
 
   // Static kitty pictures
   const kittyImages = [
-    { src: "/pictures/pic1.png", top: "4%", left: "3%", size: "180px", rotation: -12 },
-    { src: "/pictures/pic2.png", top: "6%", left: "38%", size: "180px", rotation: 10 },
-    { src: "/pictures/pic3.png", top: "5%", right: "20%", size: "180px", rotation: -8 },
+    { src: "/pictures/pic1.png", top: "4%", left: "3%", size: "130px", rotation: -12 },
+    { src: "/pictures/pic2.png", top: "6%", left: "38%", size: "130px", rotation: 10 },
+    { src: "/pictures/pic3.png", top: "2%", right: "2%", size: "130px", rotation: -8 },
 
-    { src: "/pictures/pic4.png", top: "38%", left: "2%", size: "170px", rotation: -10 },
-    { src: "/pictures/pic5.png", top: "30%", right: "2%", size: "175px", rotation: 14 },
+    { src: "/pictures/pic4.png", top: "28%", left: "2%", size: "133px", rotation: -10 },
+    { src: "/pictures/pic5.png", top: "30%", right: "2%", size: "130px", rotation: 14 },
 
-    { src: "/pictures/pic6.png", bottom: "5%", left: "5%", size: "180px", rotation: -6 },
-    { src: "/pictures/pic7.png", bottom: "4%", left: "40%", size: "180px", rotation: 12 },
-    { src: "/pictures/pic8.png", bottom: "6%", right: "5%", size: "170px", rotation: -10 },
+    { src: "/pictures/pic6.png", bottom: "26%", left: "5%", size: "130px", rotation: -6 },
+    { src: "/pictures/pic7.png", bottom: "3%", left: "14%", size: "130px", rotation: 12 },
+    { src: "/pictures/pic8.png", bottom: "6%", right: "5%", size: "130px", rotation: -10 },
 
-    { src: "/pictures/pic9.png", top: "65%", right: "22%", size: "175px", rotation: 8 }
+    { src: "/pictures/pic9.png", top: "63%", right: "2%", size: "120px", rotation: 8 }
   ];
 
   // background music LOW
